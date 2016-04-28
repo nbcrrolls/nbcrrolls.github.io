@@ -1,0 +1,9 @@
+# create initial, see https://pages.github.com
+
+1. create a repo nbcrrolls.gikthub.io on git
+2. clone the repo and initialize with jekyll
+
+   git clone https://github.com/nbcrrolls/nbcrrolls.github.io
+   cd nbcrrolls.github.io/
+   jekyll new .
+
