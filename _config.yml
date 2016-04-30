@@ -1,10 +1,9 @@
 # Site settings
-title: NBCR website 
+title: NBCR User Guides 
 email: nbcr-admin@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Collection of user guides, HOWTOs  and techincal documentaiton 
+  for NBCR clusters users.
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -12,3 +11,26 @@ github_username:  nbcrrolls
 
 # Build settings
 markdown: kramdown
+
+permalink:    /:title/
+#permalink:    /:year/:month/:title/
+
+collections: 
+
+collections:
+  music:
+      output: true
+  projects:
+     output: true
+  people:
+     output: true
+
+exclude:
+- README
+- server.sh
+- run-import.sh
+- fromWP/
+#- _pages/2011
+#- _pages/2012
+#- _pages/2013
+

@@ -7,3 +7,40 @@
    cd nbcrrolls.github.io/
    jekyll new .
 
+3. edit a few files to set defauls (site, name, email, minimal)
+4. update
+   git add .
+   git commit 
+   git push
+
+5. install  additional gems (needed to importing form wordpress)
+   as root:
+   gem install unidecode sequel mysql2 htmlentities
+
+   Failed to install mysql2, to remedy do:
+   - add missing config.h file
+        pushd \
+		/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/\
+		Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/include/ruby-2.0.0/ruby
+		ls -l ls universal-darwin15/ruby/config.h universal-darwin15/ruby/config.h
+   - install xcode ocommand line tools ( the window pop-ups, confirm)
+        xcode-select --install
+   - install brew (as user)
+        ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   - install mysql (as user)
+        brew install mysql
+   - install mysql 
+        gem install mysql
+	    gem install mysql2
+
+
+6. to enable search
+   ln -s /usr/local/MacGPG2/lib/liblzma.5.dylib /usr/local/lib/liblzma.dylib
+   gem install jekyll-lunr-js-search
+   curl https://raw.githubusercontent.com/olivernn/lunr.js/master/lunr.min.js
+   curl https://raw.githubusercontent.com/olivernn/lunr.js/master/lunr.min.js -o lunr.min.js
+   create js/search.js (copy from http://rayhightower.com/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/)
+   create /search_data.json (copy from http://rayhightower.com/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/)
+   create search.html page
+
+
