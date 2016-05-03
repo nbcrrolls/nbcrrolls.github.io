@@ -14,7 +14,9 @@ layout: default
 {% endfor %}
 
 <h2>test collection name </h2>
-{% for doc in site.collections.people.docs %}
+{% assign myCollection = site.collections | where: "label", "people" | first %}
+
+{% for doc in myCollection.docs %}
     <li> <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a> </li>
 {% endfor %}
 
