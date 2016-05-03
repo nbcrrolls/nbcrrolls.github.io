@@ -1,0 +1,371 @@
+{
+  
+    "/poem-one/": {
+      "title": "poem 1",
+      "content" : "Place holder for poems Nature",
+      "url": " /poem-one/",
+      "author": "",
+      "categories": ""
+    } ,
+  
+    "/poem-two/": {
+      "title": "poem 2",
+      "content" : "Place holder for poems Love",
+      "url": " /poem-two/",
+      "author": "",
+      "categories": ""
+    } ,
+  
+    "/biomedical-big-data-training-collaborative/": {
+      "title": "Biomedical Big Data Training Collaborative",
+      "content" : "",
+      "url": " /biomedical-big-data-training-collaborative/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2015"
+    } ,
+  
+    "/multi-scale-simulations-with-applications-for-drug-design/": {
+      "title": "Multi-scale Simulations with Applications for Drug Design",
+      "content" : "",
+      "url": " /multi-scale-simulations-with-applications-for-drug-design/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2015"
+    } ,
+  
+    "/allostery-and-protein-dynamics-across-scales/": {
+      "title": "Allostery and Protein Dynamics across Scales",
+      "content" : "",
+      "url": " /allostery-and-protein-dynamics-across-scales/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2015"
+    } ,
+  
+    "/simulation-based-drug-discovery/": {
+      "title": "Simulation Based Drug Discovery",
+      "content" : "National Biomedical Computation Resource (NBCR) and the Theoretical and Computational Biophysics Group (TCBG) are pleased to offer a joint workshop on the theme of Molecular Sulation and Small Molecule Drug Discovery. This week-long intensive program will introduce 12-25 students to principles, methods, and NBCR / TCBG tools for simulating receptors (globular and membrane bound), small molecule docking, rigorous free energy calculations, and drug discovery strategies and workflows.See full article",
+      "url": " /simulation-based-drug-discovery/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2015"
+    } ,
+  
+    "/data-to-structural-models-summer-training-program/": {
+      "title": "Data to Structural Models Summer Training Program",
+      "content" : "NBCR is pleased to offer aSummer Training Program (STP)  August 17th to 21st, 2015,on the theme of image-based meshing and structural modeling. This week-long intensive program will introduce 12-20 students to principles, methods, and NBCR tools for generating high-quality three-dimensional meshes for numerical analysis in multi-scale modeling of subcellular, cell, tissue, and organ biophysics. See full article",
+      "url": " /data-to-structural-models-summer-training-program/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2015"
+    } ,
+  
+    "/cellpack-a-new-tool-to-build-complex-systems/": {
+      "title": "cellPACK - a new tool to build complex systems",
+      "content" : "In collaboration with QB3 Fellow Graham Johnson at UCSF, NBCR investigators Art Olson and Michel Sanner have developed cellPACK, a new software tool to build increasingly complex systems. CellPACK, published recently in Nature Methods, enables researchers to construct mesoscale systems with new levels of detail and realism, addressing a major challenge for researchers who are interested to integrate data across diverse scales of biological organization.  A full press release can be found here.CellPACK is a biological packing algorithm optimized to pack molecular structures and other data types into biological volumes. CellPACK creates 3D models of the cellular mesoscale. In this image cellPACK generates an editable model of HIV by packing from a recipe of molecular ingredients1 into the ultrastructure of an HIV envelope surface.Image created by Graham Johnson (grahamj.com) and Ludovic Autin (mgl.scripps.edu).",
+      "url": " /cellpack-a-new-tool-to-build-complex-systems/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/amber-workshop/": {
+      "title": "Amber Workshop",
+      "content" : "NBCR andNVIDIA are proud to co-sponsor a Hands-on AMBER molecular dynamics workshop Dec 15-18, 2014 at UCSD.Come learn both basic techniques, such as how to run molecular dynamics with AMBER&#39;s NVIDIA GPU code and how to use VMD to visualize AMBER trajectories, as well as more advanced topics, such as how to use BioKepler workflows for your MD runs and explore advanced sampling techniques such as Accelerated Molecular Dynamics (aMD). See workshop website  ",
+      "url": " /amber-workshop/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/how-camp-binding-causes-protein-kinase-activation/": {
+      "title": "How cAMP Binding Causes Protein Kinase Activation",
+      "content" : "In spite of several decades of research, scientists have been unable to describe in rigorous quantitative terms the exact sequence of events that leads to activation of Protein Kinase A (PKA) by cyclic adenosine monophosphate (cAMP). But a research team at UCSD will soon publish results that explain this mechanism for a PKA isoform essential for proper functioning of the heart.See full article  ",
+      "url": " /how-camp-binding-causes-protein-kinase-activation/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/experimentation-meets-computation/": {
+      "title": "Experimentation Meets Computation",
+      "content" : "",
+      "url": " /experimentation-meets-computation/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/focus-on-scientific-workflows/": {
+      "title": "Focus on Scientific Workflows",
+      "content" : "",
+      "url": " /focus-on-scientific-workflows/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/remembering-anushka-michailova/": {
+      "title": "Remembering Anushka Michailova",
+      "content" : "Anushka Mihailova, a project scientist in the Department of Bioengineering at the University of California, San Diego died on May 17 after being struck by a hit-and-run driver while walking with her husband in Rancho Bernardo. Mihailova joined the department in 2000, where she was a researcher in the Cardiac Mechanics Laboratory led by bioengineering professor Andrew McCulloch in the UC San Diego Jacobs School of Engineering. Mihailova was a key investigator of the National Biomedical Computation Resource. See UCSD News Center articleFriends and colleagues in the Department of Bioengineering at UC San Diego have honored Dr. Anushka Michailova  by establishing The Anushka Michailova Memorial Award as a tribute to her tireless commitment to undergraduate and graduate student research by recognizing outstanding student accomplishment in cardiovascular bioengineering research. ",
+      "url": " /remembering-anushka-michailova/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/videos-release/": {
+      "title": "Learn more about what we do",
+      "content" : "NBCR is pleased to present two videos discussing recent development at the center.  In the first video, Dr. Adarsh Krishnamurthy describes recent improvements to Continuity 6 highlighting features that enables patient specific modeling.  In the second video, Dr. David Lee explains how NBCR is enabling research at remote locations through interactive visualization and discussion of data.",
+      "url": " /videos-release/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/scalable-bioinformatics-bootcamp/": {
+      "title": "Scalable Bioinformatics Bootcamp",
+      "content" : "NBCR is proud to co-sponsor the upcoming Scalable Bioinformatics Boot Camp on May 22, 2014 at the San Diego Supercomputing Center on the UCSD campus, featuring the workflows framework bioKepler.  In the Big Data era, scalability is becoming a prerequisite for bioinformatics applications to be able to efficiently process large scale datasets. This hands-on bootcamp will explain how you can turn your bioinformatics applications into scalable workflows by analyzing available options, techniques and tools. This is a free event with limited space available.  Please register at Boot Camp Registartion",
+      "url": " /scalable-bioinformatics-bootcamp/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/nbcr-team-models-nucleotide-diffusion/": {
+      "title": "NBCR Team Models Nucleotide Diffusion",
+      "content" : "An NBCR research team recently published a paper investigating the spatiotemporal diffusion of adenine di- and triphosphate (ADP and ATP) nucleotides through the myofilament lattice in heart muscle. The investigation of diffusion of these biomolecules is important because they regulate cardiac energetics and coupling between cell excitation and contraction.See full article",
+      "url": " /nbcr-team-models-nucleotide-diffusion/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2014"
+    } ,
+  
+    "/nbcr-researchers-publish-new-molecular-dynamics-method/": {
+      "title": "NBCR Researchers Publish New Molecular Dynamics Method",
+      "content" : " A team of NBCR researchers recently demonstrated a new accelerated molecular dynamics (aMD) implementation that enhances sampling of the conformational space of biomolecules by several orders of magnitude. More specifically, they developed an implementation of the aMD method using the OpenMM toolkit library.See full article",
+      "url": " /nbcr-researchers-publish-new-molecular-dynamics-method/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2013"
+    } ,
+  
+    "/next-steps-for-exceptional-nbcr-high-school-student-finding-new-anti-flu-compounds/": {
+      "title": "Next Steps for Exceptional NBCR High School Student: Finding New Anti-flu Compounds",
+      "content" : "",
+      "url": " /next-steps-for-exceptional-nbcr-high-school-student-finding-new-anti-flu-compounds/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2013"
+    } ,
+  
+    "/continuity-6-4-release/": {
+      "title": "Continuity 6.4 release",
+      "content" : "NBCR&#39;s multi-scale biological modeling suite, Continuity, issued a new release for version 6.4.  New features include: on-demand compilation, which enables users to run models without manually compiling them first; an upgrade to Python 2.7 from Python 2.5; an upgraded MGLTools GUI framework; and the first ever release of 64 bit versions for Mac and Windows.  Please see Download for more details and download instructions.",
+      "url": " /continuity-6-4-release/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2013"
+    } ,
+  
+    "/pocket-full-of-promise-for-drug-target-p53/": {
+      "title": "Pocket Full of Promise for Drug Target p53",
+      "content" : "Cancer remains the second leading cause of death, after heart diseases, in the US, and millions of people die from different types of cancer worldwide each year. The known tumor suppressor protein p53 is an important regulator of cell growth in normal cells and its dysfunction is closely related to tumor development and progression. Frequently tumor cells contain a mutated p53 protein that reduces or abolishes p53 anti-tumor activities. One of the current small molecules called PRIMA-1 (APR-246, aprea.com) has been shown to reactivate p53 activity and induce cell death preferentially in tumor cells.See full article",
+      "url": " /pocket-full-of-promise-for-drug-target-p53/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2013"
+    } ,
+  
+    "/new-opportunity-to-treat-mrsa/": {
+      "title": "New opportunity to treat MRSA",
+      "content" : "The research team, led by scientists at the University of Illinois and the University of California, San Diego, discovered and developed several compounds that are promising leads for antibacterial drug development, and the most potent was tested in mice infected with MRSA.See full article",
+      "url": " /new-opportunity-to-treat-mrsa/",
+      "author": "",
+      "categories": "2013"
+    } ,
+  
+    "/intracellular-calcium-dynamics-model-in-rabbit-ventricular-myocytes-with-realistic-transverse-tubules/": {
+      "title": "Intracellular Calcium Dynamics Model in Rabbit Ventricular Myocytes with Realistic Transverse Tubules",
+      "content" : "In  ventricular myocytes, invaginations of the cell surface membrane, known as t-tubules, promote rapid propagation of the electrical signal (i.e. action potential) in the cell interior that is essential for efficient cardiac excitation-contraction coupling. Alterations in the t-tubule micro-anatomy and Ca2+ flux distribution and density are recognized to be the primary mechanisms of cardiac dysfunction in a diverse range of common pathologies including cardiac arrhythmias and hypertrophy. See full article",
+      "url": " /intracellular-calcium-dynamics-model-in-rabbit-ventricular-myocytes-with-realistic-transverse-tubules/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2013"
+    } ,
+  
+    "/cadd-video/": {
+      "title": "CADD Video",
+      "content" : "Video highlighting the Computer Aided Drug Discovery Pipeline is now available on YouTube and is viewable from the CADD page. CADD Pipeline is a workflow environment designed to support molecular dyanmics simulations and virtual screening experiments for in silico drug discovery, with a special focus on supporting the use of the Relaxed Complex Scheme. ",
+      "url": " /cadd-video/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2012"
+    } ,
+  
+    "/advanced-gpu-accelerated-software/": {
+      "title": "Advanced GPU-accelerated software",
+      "content" : "Researchers enable unprecedented sampling using desktop computers with OTS upgrade: Using just an upgraded desktop computer equipped with a relatively inexpensive graphics processing card, a team of computer scientists and biochemists at the University of California, San Diego, has developed advanced GPU accelerated software and demonstrated for the first time that this approach can sample biological events that occur on the millisecond timescale. See full article  ",
+      "url": " /advanced-gpu-accelerated-software/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2012"
+    } ,
+  
+    "/5th-cardiac-physiome-workshop/": {
+      "title": "2012 Cardiac Physiome Workshop",
+      "content" : "",
+      "url": " /5th-cardiac-physiome-workshop/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2011"
+    } ,
+  
+    "/nbcr-summer-institute-2012/": {
+      "title": "NBCR Summer Institute 2012",
+      "content" : "The 7thNational Biomedical Computation Resource Summer Institute will take place30 July - 3 August, 2012. ",
+      "url": " /nbcr-summer-institute-2012/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2011"
+    } ,
+  
+    "/biophysical-society-56th-annual-meeting/": {
+      "title": "Biophysical Society 56th Annual Meeting",
+      "content" : "The 2012 Biophysical Society 56th Annual Meeting is held in San Diego, Feb 25-29, 2012. See http://www.biophysics.org/2012meeting",
+      "url": " /biophysical-society-56th-annual-meeting/",
+      "author": "{&quot;login&quot;=&gt;&quot;wpadmin&quot;, &quot;email&quot;=&gt;&quot;nadya@sdsc.edu&quot;, &quot;display_name&quot;=&gt;&quot;wpadmin&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}",
+      "categories": "2011"
+    } 
+  
+
+  
+     ,
+        "/about/": {
+          "title": "About",
+          "subtitle": "",
+          "url": " /about/",
+          "author": "",
+          "category": "",
+          "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.comYou can find the source code for the Jekyll new theme at: github.com/jglovier/jekyll-newYou can find the source code for Jekyll at github.com/jekyll/jekyllSearch string ABCD"
+        } 
+     
+  
+     
+  
+     ,
+        "/blog/index.html": {
+          "title": "Highlights",
+          "subtitle": "",
+          "url": " /blog/index.html",
+          "author": "",
+          "category": "",
+          "content": "Highlightssubscribe via RSSEvents                                                                                                                                                                                                                                                                                                             2015                                         22 Dec 2015 &amp;raquo; Biomedical Big Data Training Collaborative                          27 Oct 2015 &amp;raquo; Multi-scale Simulations with Applications for Drug Design                          23 Jul 2015 &amp;raquo; Allostery and Protein Dynamics across Scales                          10 Jun 2015 &amp;raquo; Simulation Based Drug Discovery                          10 Jun 2015 &amp;raquo; Data to Structural Models Summer Training Program                                                                                                                                                                                                                                       2014                                                                                                03 Dec 2014 &amp;raquo; cellPACK - a new tool to build complex systems                          04 Nov 2014 &amp;raquo; Amber Workshop                          01 Oct 2014 &amp;raquo; How cAMP Binding Causes Protein Kinase Activation                          08 Sep 2014 &amp;raquo; Experimentation Meets Computation                          08 Jul 2014 &amp;raquo; Focus on Scientific Workflows                          30 May 2014 &amp;raquo; Remembering Anushka Michailova                          28 Apr 2014 &amp;raquo; Learn more about what we do                          21 Apr 2014 &amp;raquo; Scalable Bioinformatics Bootcamp                          21 Jan 2014 &amp;raquo; NBCR Team Models Nucleotide Diffusion                                                                                                                                    2013                                                                                                                                                                                                   17 Dec 2013 &amp;raquo; NBCR Researchers Publish New Molecular Dynamics Method                          03 Dec 2013 &amp;raquo; Next Steps for Exceptional NBCR High School Student: Finding New Anti-flu Compounds                          05 Nov 2013 &amp;raquo; Continuity 6.4 release                          13 Aug 2013 &amp;raquo; Pocket Full of Promise for Drug Target p53                          14 Jun 2013 &amp;raquo; New opportunity to treat MRSA                          13 Apr 2013 &amp;raquo; Intracellular Calcium Dynamics Model in Rabbit Ventricular Myocytes with Realistic Transverse Tubules                                                                  2012                                                                                                                                                                                                                                                                     08 Nov 2012 &amp;raquo; CADD Video                          13 Aug 2012 &amp;raquo; Advanced GPU-accelerated software                                            2011                                                                                                                                                                                                                                                                                           14 Dec 2011 &amp;raquo; 2012 Cardiac Physiome Workshop                          10 Oct 2011 &amp;raquo; NBCR Summer Institute 2012                          08 Sep 2011 &amp;raquo; Biophysical Society 56th Annual Meeting           "
+        } 
+     
+  
+     
+  
+     
+  
+     
+  
+     ,
+        "/people.html": {
+          "title": "People",
+          "subtitle": "",
+          "url": " /people.html",
+          "author": "",
+          "category": "",
+          "content": ""
+        } 
+     
+  
+     ,
+        "/projects.html": {
+          "title": "Projects",
+          "subtitle": "",
+          "url": " /projects.html",
+          "author": "",
+          "category": "",
+          "content": ""
+        } 
+     
+  
+     ,
+        "/search.html": {
+          "title": "Search",
+          "subtitle": "",
+          "url": " /search.html",
+          "author": "",
+          "category": "",
+          "content": "    "
+        } 
+     
+  
+     
+  
+     ,
+        "/test.html": {
+          "title": "Tests",
+          "subtitle": "",
+          "url": " /test.html",
+          "author": "",
+          "category": "",
+          "content": ""
+        } 
+     
+  
+
+  
+    
+	  
+         ,
+            "/tests/music-1.html": {
+              "title": "music 1",
+              "url": " /tests/music-1.html",
+              "description": "",
+              "categories": "",
+              "content": "Place holder for Tango"
+            }  
+         
+       
+         ,
+            "/tests/music-2.html": {
+              "title": "music 2",
+              "url": " /tests/music-2.html",
+              "description": "",
+              "categories": "",
+              "content": "Place holder for chacha "
+            }  
+         
+        
+  
+    
+	  
+         ,
+            "/projects/2016-02-28-nbcr.html": {
+              "title": "False 2",
+              "url": " /projects/2016-02-28-nbcr.html",
+              "description": "",
+              "categories": "2016",
+              "content": " page for 2016-02-28 "
+            }  
+         
+       
+         ,
+            "/projects/first-item.html": {
+              "title": "Web Design",
+              "url": " /projects/first-item.html",
+              "description": "",
+              "categories": "",
+              "content": "Beautiful, clean designs tailored to your business"
+            }  
+         
+        
+  
+    
+	  
+         ,
+            "/people/person-2.html": {
+              "title": "person 2",
+              "url": " /people/person-2.html",
+              "description": "",
+              "categories": "",
+              "content": "Place holder for CADD"
+            }  
+         
+       
+         ,
+            "/people/second-item.html": {
+              "title": "People pages",
+              "url": " /people/second-item.html",
+              "description": "",
+              "categories": "",
+              "content": "Place holder for personal pages TXBR"
+            }  
+         
+        
+  
+
+}
+
+
