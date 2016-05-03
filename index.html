@@ -7,15 +7,11 @@ layout: default
 {% for collection in site.collections %}
   {% capture label %}{{ collection | first }}{% endcapture %}
   <h3>All documents listed in collection '{{ label}}'</h3>
-
   {% for doc in site.collections.[label].docs %}
     <li> <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a> </li>
   {% endfor %}
-
+  <hr>
 {% endfor %}
-  {% for doc in site.collections.music.docs %}
-    <li>music collection  <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a> </li>
-  {% endfor %}
 
 <!--
 <ul class="tag-box inline">
@@ -48,7 +44,6 @@ layout: default
     {% assign group = nil %}
   </ul>
 {% endfor %}
--->
 
 <ul>
   {% for page in site.category[page.category] %}
@@ -58,16 +53,14 @@ layout: default
       <li>{{ post.title }}</li>
 	  {% endfor %}
 </ul>
-
+-->
 
   <h1 class="page-heading">Pages</h1>
   <ul class="post-list">
     {% for page in site.pages %}
       <li>
         <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </h2>
+          <a  href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       </li>
     {% endfor %}
   </ul>
@@ -77,10 +70,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

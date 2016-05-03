@@ -15,10 +15,10 @@ markdown: kramdown
 permalink:    /:title/
 #permalink:    /:year/:month/:title/
 
-include: ['_pages']
+#include: ['_pages']
 
 collections:
-  music:
+  tests:
       output: true
   projects:
      output: true
@@ -26,11 +26,8 @@ collections:
      output: true
 
 exclude:
-- README
-- server.sh
-- run-import.sh
-- fromWP/
-#- _pages/2011
-#- _pages/2012
-#- _pages/2013
+   - README
+   - server.sh
+   - run-import.sh
+   - fromWP/
 
