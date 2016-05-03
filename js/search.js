@@ -6,6 +6,8 @@ jQuery(function() {
     this.field('title', { boost: 10 });
     this.field('author');
     this.field('category');
+    this.field('subtitle');
+    this.field('content');
   });
 
   // Download the data from the JSON file we generated
@@ -20,8 +22,17 @@ jQuery(function() {
     });
   });
 
+  // Event when a category is clicked
+  $(".nav-pill").click(function(){
+      event.preventDefault();
+      var query = $(this).attr('id');
+      $("#search_box").val(''); // Get the value for the text field
+      var results = window.idx.search(query); // Get lunr to perform a search
+      display_search_results(results); // Hand the results off to be displayed
+  });
+
   // Event when the form is submitted
-  $("#site_search").submit(function(event){
+  $("#site_search").submit(function(){
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
       var results = window.idx.search(query); // Get lunr to perform a search
@@ -43,8 +54,7 @@ jQuery(function() {
           var item = loaded_data[result.ref];
 
           // Build a snippet of HTML for this result
-          var appendString = '<li><a href="' + item.url + '">' + item.title +
-'</a></li>';
+          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
 
           // Add it to the results
           $search_results.append(appendString);

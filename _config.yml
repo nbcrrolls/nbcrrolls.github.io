@@ -2,8 +2,8 @@
 title: NBCR User Guides 
 email: nbcr-admin@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Collection of user guides, HOWTOs  and techincal documentaiton 
-  for NBCR clusters users.
+  Collection of user guides, HOWTOs and techincal documentaiton 
+  for NBCR users.
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -15,7 +15,7 @@ markdown: kramdown
 permalink:    /:title/
 #permalink:    /:year/:month/:title/
 
-collections: 
+include: ['_pages']
 
 collections:
   music:
