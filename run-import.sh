@@ -4,8 +4,8 @@ connect-import () {
 ruby -rubygems -e 'require "jekyll-import";
     JekyllImport::Importers::WordPress.run({
       "dbname"   => "wpdb",
-      "user"     => "wpadmin",
-      "password" => "r0cceWP$",
+      "user"     => "xxx",
+      "password" => "xxx",
       "host"     => "rocce-vm1.ucsd.edu",
       "socket"   => "",
       "table_prefix"   => "wp_",
